@@ -1,5 +1,6 @@
 /**
  * Created by dongyi.kim on 2017-06-07.
+ * Implementation of constant-time median filter proposed by referenced paper.
  */
 public class ProposedFilter extends MedianFilter {
 
